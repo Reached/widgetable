@@ -1,6 +1,6 @@
 <?php
 
-namespace Reached\WidgetAble;
+namespace Reached\Widgetable;
 
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Cache;
